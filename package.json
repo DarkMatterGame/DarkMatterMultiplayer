@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DarkMatterGame/DarkMatterMultiplayer#readme",
   "devDependencies": {
     "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "nodemon": "^1.18.10"
   }
 }
