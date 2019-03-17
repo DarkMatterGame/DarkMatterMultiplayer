@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 //*********************************************************//
+=======
+//This is a test comment
+
+/*********************************************************//
+>>>>>>> First commit
 //DARK MATTER MULTIPLAYER SERVER COMPONENT
 //*********//
 //LIAM OSLER
