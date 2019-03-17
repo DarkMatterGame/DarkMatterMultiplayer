@@ -1,0 +1,23 @@
+{
+  "name": "darkmattermultiplayer",
+  "version": "1.0.0",
+  "description": "Multiplayer Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkMatterGame/DarkMatterMultiplayer.git"
+  },
+  "author": "Liam O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkMatterGame/DarkMatterMultiplayer/issues"
+  },
+  "homepage": "https://github.com/DarkMatterGame/DarkMatterMultiplayer#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
