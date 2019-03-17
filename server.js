@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+//Another test comment
+
 //*********************************************************//
-=======
-//This is a test comment
-
-
 //DARK MATTER MULTIPLAYER SERVER COMPONENT
 //*********//
 //LIAM OSLER
